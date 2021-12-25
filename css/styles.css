@@ -16,6 +16,9 @@
       text-align: center;
       color: white;
   }
+  #portfolio{
+      text-align: center;
+  }
   #contact{
       background-image: url(../images/image3.jpg);
   }
