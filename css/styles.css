@@ -8,6 +8,9 @@
     margin-left: auto;
     margin-right: auto;
   }
+  #about{
+      text-align: center;
+  }
   #services{
       background-image: url(../images/image2.jpg);
       text-align: center;
