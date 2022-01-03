@@ -19,8 +19,20 @@
   #design{
       text-align: center;
   }
+  .description-showing{
+      display: none;
+  }
   #portfolio{
       text-align: center;
+  }
+  .col{
+      float: left;
+      width: 20%;
+      padding: 0px;
+      
+  }
+  .row{
+      
   }
   #contact{
       background-image: url(../images/image3.jpg);
