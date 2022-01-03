@@ -19,9 +19,15 @@
   #design{
       text-align: center;
   }
-  .description-showing{
+  .design-showing{
       display: none;
   }
+  .development-showing{
+    display: none;
+}
+.prodManagement-showing{
+    display: none;
+}
   #portfolio{
       text-align: center;
   }

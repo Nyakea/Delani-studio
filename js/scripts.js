@@ -1,0 +1,18 @@
+$(document).ready(function(){
+    $(".design-clickable").click(function(){
+        $(".design-showing").toggle();
+        $(".design-hidden").toggle();
+    });
+});
+$(document).ready(function(){
+    $(".development-clickable").click(function(){
+        $(".development-showing").toggle();
+        $(".development-hidden").toggle();
+    });
+});
+$(document).ready(function(){
+    $(".product-clickable").click(function(){
+        $(".prodManagement-showing").toggle();
+        $(".prodManagement-hidden").toggle();
+    });
+});
