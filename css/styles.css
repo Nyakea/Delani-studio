@@ -31,6 +31,13 @@
   #portfolio{
       text-align: center;
   }
+  .border{
+      border: 4px white;
+  }
+  .text{
+      color: white;
+      font-weight: bold;
+  }
   .col{
       float: left;
       width: 20%;
