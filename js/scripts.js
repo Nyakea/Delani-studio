@@ -16,3 +16,19 @@ $(document).ready(function(){
         $(".prodManagement-hidden").toggle();
     });
 });
+$(document).ready(function(){
+    $(".border").hide();
+    $("img").animate({
+        opacity:5
+    });
+    $("img").hover(function(){
+        $(this).stop().animate({
+            opacity:0.4},200);
+            $(".border").fadeIn();
+        }
+        ,function(){
+            $(this).stop().animate({
+                opacity:1},500);
+                $(".border").fadeOut();  
+        });
+    });
