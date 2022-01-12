@@ -49,4 +49,17 @@
   }
   #contact{
       background-image: url(../images/image3.jpg);
+      color: white;
+      text-align: center;
+  }
+  .form input{
+      background: none;
+      border: 1px solid white;
+      color: white;
+      margin-bottom: 20px;
+      border-radius: 0px;
+      text-align: left;
+  }
+  .footer{
+      text-align: center;
   }
