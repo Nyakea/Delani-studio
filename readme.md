@@ -15,7 +15,7 @@ CSS
 JavaScript/ jQuery
 
 ## link to live site on GitHub Pages
-Live link: 
+Live link: https://nyakea.github.io/Delani-studio/
 
 ## copyright and license information
 MIT License
